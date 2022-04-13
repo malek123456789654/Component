@@ -1,0 +1,11 @@
+.me-auto {
+  font-size: 14pt !important;
+}
+.me-auto :hover {
+  background-color: rgb(241, 132, 199);
+  color: rgb(54, 54, 53) !important;
+}
+.Titlex {
+  color: white;
+  font-size: 14pt !important;
+}
